@@ -1,0 +1,18 @@
+ANAGRAM FINDER
+
+
+
+1. ASSIGN TO EVERY WORD IN DICT THEIR CORRESPONDING KEY
+
+	KEY: the word with its characters in sorted alphabetical order
+
+	e.g.:
+
+		aardvark -- aaadkrrv
+		bobcat -- abbcot
+		pots -- opst
+		spot -- opst
+		opts -- opst
+		tops -- opst
+
+2. 
