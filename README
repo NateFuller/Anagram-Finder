@@ -15,4 +15,13 @@ ANAGRAM FINDER
 		opts -- opst
 		tops -- opst
 
-2. 
+2. Sort the list based on keys
+
+	-- this will put all anagram classes next to each other
+
+3. Determine the anagram classes
+
+	-- we need to delimit anagram classes simply by scanning the new 
+	list and keeping track of the previous key.
+
+	-- once we see a new key, we're in a new anagram class
